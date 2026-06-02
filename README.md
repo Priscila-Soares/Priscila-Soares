@@ -6,10 +6,10 @@ Tenho experiência no desenvolvimento de aplicações web, criação de APIs RES
 
 ## 🚀 Tecnologias e ferramentas
 
-**Backend:** Java, Spring Boot, Spring Data JPA, APIs REST
-**Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS
-**Banco de dados:** MySQL, MongoDB
-**Ferramentas:** Git, GitHub, Postman, Swagger/OpenAPI
+**Backend:** Java, Spring Boot, Spring Data JPA, APIs REST.
+**Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS.
+**Banco de dados:** MySQL, MongoDB.
+**Ferramentas:** Git, GitHub, Postman, Swagger/OpenAPI.
 
 ## 📌 Projetos em destaque
 
